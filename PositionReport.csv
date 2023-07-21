@@ -1,0 +1,9 @@
+"--- InstrumentDetails.csv	2023-07-21 10:35:16.889956300 +0530",,
+"+++ PositionDetails.csv	2023-07-21 10:36:33.436222600 +0530",,
+@@ -1,4 +1,3 @@
+ ID,Primary ID,
+Name,Instrument name,
+ISIN,Unique Instrument identifier,
+Unit Price,Unit price of instrument,
+InstrumentID,Primary ID of Instrument file,
+Quantity,Number of instruments in position,
